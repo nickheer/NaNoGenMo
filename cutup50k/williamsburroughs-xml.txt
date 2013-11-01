@@ -1,0 +1,570 @@
+<rss version=\"2.0\">
+    <channel>
+        <generator>NFE/1.0</generator>
+        <title>william s burroughs - Google News</title>
+        <link>http://news.google.com/news?pz=1&ned=us&hl=en&q=william+s+burroughs</link>
+        <language>en</language>
+        <webMaster>news-feedback@google.com</webMaster>
+        <copyright>&copy;2012 Google</copyright>
+        <pubDate>Mon, 05 Nov 2012 20:44:37 GMT</pubDate>
+        <lastBuildDate>Mon, 05 Nov 2012 20:44:37 GMT</lastBuildDate>
+        <image>
+            <title>william s burroughs - Google News</title>
+            <url>http://www.gstatic.com/news/img/logo/en_us/news.gif</url>
+            <link>http://news.google.com/news?pz=1&ned=us&hl=en&q=william+s+burroughs</link>
+        </image>
+        <item>
+            <title>The Survivor Truck, built to drive through the end of the world - Yahoo! News (blog)</title>
+            <link>http://news.google.com/news/url?sa=t&fd=R&usg=AFQjCNFxO9K_XHlsItAbPVjihcoWiTahyg&url=http://autos.yahoo.com/blogs/motoramic/survivor-truck-built-drive-end-world-143718470.html</link>
+            <guid isPermaLink=\"false\">tag:news.google.com,2005:cluster=http://autos.yahoo.com/blogs/motoramic/survivor-truck-built-drive-end-world-143718470.html</guid>
+            <pubDate>Mon, 05 Nov 2012 20:34:03 GMT</pubDate>
+            <description>
+                <table border="0" cellpadding="2" cellspacing="7" style="vertical-align:top;">
+                    <tr>
+                        <td width="80" align="center" valign="top">
+                            <font style="font-size:85%;font-family:arial,sans-serif">
+                                <a href="http://news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNFxO9K_XHlsItAbPVjihcoWiTahyg&amp;url=http://autos.yahoo.com/blogs/motoramic/survivor-truck-built-drive-end-world-143718470.html">
+                                    <img src="//nt3.ggpht.com/news/tbn/--yLOYtJ1CovNM/6.jpg" alt="" border="1" width="80" height="80" />
+                                    <br />
+                                    <font size="-2">Yahoo! News (blog)</font>
+                                </a>
+                            </font>
+                        </td>
+                        <td valign="top" class="j">
+                            <font style="font-size:85%;font-family:arial,sans-serif">
+                                <br />
+                                <div style="padding-top:0.8em;">
+                                    <img alt="" height="1" width="1" />
+                                </div>
+                                <div class="lh">
+                                    <a href="http://news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNFxO9K_XHlsItAbPVjihcoWiTahyg&amp;url=http://autos.yahoo.com/blogs/motoramic/survivor-truck-built-drive-end-world-143718470.html">
+                                        <b>The Survivor Truck, built to drive through the end of the world</b>
+                                    </a>
+                                    <br />
+                                    <font size="-1">
+                                        <b>
+                                            <font color="#6f6f6f">Yahoo! News (blog)</font>
+                                        </b>
+                                    </font>
+                                    <br />
+                                    <font size="-1">&quot;Sometimes,&quot; author 
+                                        <b>William S</b>. 
+                                        <b>Burroughs</b>once said, &quot;paranoia is just having all the facts.&quot; Given the facts gathered from the past few natural and man-made disasters, it&#39;s not a surprise that many people have begun to think of what they&#39;d need to 
+                                        <b>...</b>
+                                    </font>
+                                    <br />
+                                    <font size="-1" class="p">
+                                    </font>
+                                    <br />
+                                    <font class="p" size="-1">
+                                        <a class="p" href="http://news.google.com/news/more?ncl=dV4DEE9ESRLUGtM&amp;ned=us">
+                                            <nobr>
+                                                <b>
+                                                </b>
+                                            </nobr>
+                                        </a>
+                                    </font>
+                                </div>
+                            </font>
+                        </td>
+                    </tr>
+                </table>
+            </description>
+        </item>
+        <item>
+            <title>Channeling William Burroughs - Norwich Bulletin (blog)</title>
+            <link>http://news.google.com/news/url?sa=t&fd=R&usg=AFQjCNF0q5_alqkFm53ZwhE2CbbKdvn2Tw&url=http://www.norwichbulletin.com/tilting_at_windmills_blog/x1224699385/Channeling-William-Burroughs</link>
+            <guid isPermaLink=\"false\">tag:news.google.com,2005:cluster=http://www.norwichbulletin.com/tilting_at_windmills_blog/x1224699385/Channeling-William-Burroughs</guid>
+            <pubDate>Mon, 29 Oct 2012 05:29:15 GMT</pubDate>
+            <description>
+                <table border="0" cellpadding="2" cellspacing="7" style="vertical-align:top;">
+                    <tr>
+                        <td width="80" align="center" valign="top">
+                            <font style="font-size:85%;font-family:arial,sans-serif">
+                            </font>
+                        </td>
+                        <td valign="top" class="j">
+                            <font style="font-size:85%;font-family:arial,sans-serif">
+                                <br />
+                                <div style="padding-top:0.8em;">
+                                    <img alt="" height="1" width="1" />
+                                </div>
+                                <div class="lh">
+                                    <a href="http://news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNF0q5_alqkFm53ZwhE2CbbKdvn2Tw&amp;url=http://www.norwichbulletin.com/tilting_at_windmills_blog/x1224699385/Channeling-William-Burroughs">
+                                        <b>Channeling 
+                                            <b>William Burroughs</b>
+                                        </b>
+                                    </a>
+                                    <br />
+                                    <font size="-1">
+                                        <b>
+                                            <font color="#6f6f6f">Norwich Bulletin (blog)</font>
+                                        </b>
+                                    </font>
+                                    <br />
+                                    <font size="-1">I have found my copy of Naked Lunch -I was a fan of 
+                                        <b>William S</b>.
+                                        <b>Burroughs</b>for a long time and then we just started seeing other people (okay, I did) and drifted apart. Someone mentioned Junkie the other day and that reminded me of yet another box in the 
+                                        <b>...</b>
+                                    </font>
+                                    <br />
+                                    <font size="-1" class="p">
+                                    </font>
+                                    <br />
+                                    <font class="p" size="-1">
+                                        <a class="p" href="http://news.google.com/news/more?ncl=dZfeeI6DY5bK-PM&amp;ned=us">
+                                            <nobr>
+                                                <b>
+                                                </b>
+                                            </nobr>
+                                        </a>
+                                    </font>
+                                </div>
+                            </font>
+                        </td>
+                    </tr>
+                </table>
+            </description>
+        </item>
+        <item>
+            <title>Ruth Is Heartless, But the World Breaks Everyone - Gawker</title>
+            <link>http://news.google.com/news/url?sa=t&fd=R&usg=AFQjCNGMsKqpvkRh7x8CT1ZMtKr-i7-eyA&url=http://gawker.com/5955447/ruth-is-heartless-but-the-world-breaks-everyone</link>
+            <guid isPermaLink=\"false\">tag:news.google.com,2005:cluster=http://gawker.com/5955447/ruth-is-heartless-but-the-world-breaks-everyone</guid>
+            <pubDate>Sat, 27 Oct 2012 18:08:50 GMT</pubDate>
+            <description>
+                <table border="0" cellpadding="2" cellspacing="7" style="vertical-align:top;">
+                    <tr>
+                        <td width="80" align="center" valign="top">
+                            <font style="font-size:85%;font-family:arial,sans-serif">
+                            </font>
+                        </td>
+                        <td valign="top" class="j">
+                            <font style="font-size:85%;font-family:arial,sans-serif">
+                                <br />
+                                <div style="padding-top:0.8em;">
+                                    <img alt="" height="1" width="1" />
+                                </div>
+                                <div class="lh">
+                                    <a href="http://news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNGMsKqpvkRh7x8CT1ZMtKr-i7-eyA&amp;url=http://gawker.com/5955447/ruth-is-heartless-but-the-world-breaks-everyone">
+                                        <b>Ruth Is Heartless, But the World Breaks Everyone</b>
+                                    </a>
+                                    <br />
+                                    <font size="-1">
+                                        <b>
+                                            <font color="#6f6f6f">Gawker</font>
+                                        </b>
+                                    </font>
+                                    <br />
+                                    <font size="-1">Hunter S. Thompson, Hemingway, 
+                                        <b>William S</b>. 
+                                        <b>Burroughs</b>, Raymond Chandler, Tennessee Williams, Dylan Thomas, Jack Kerouac, Truman Capote, Charles Bukowski, William Faulkner. There weren&#39;t many women in my list. Dorothy Parker, and that was about 
+                                        <b>...</b>
+                                    </font>
+                                    <br />
+                                    <font size="-1" class="p">
+                                    </font>
+                                    <br />
+                                    <font class="p" size="-1">
+                                        <a class="p" href="http://news.google.com/news/more?ncl=d7Lo2h96kZVBhSM&amp;ned=us">
+                                            <nobr>
+                                                <b>
+                                                </b>
+                                            </nobr>
+                                        </a>
+                                    </font>
+                                </div>
+                            </font>
+                        </td>
+                    </tr>
+                </table>
+            </description>
+        </item>
+        <item>
+            <title>Holiday movies are a question of character - STLtoday.com</title>
+            <link>http://news.google.com/news/url?sa=t&fd=R&usg=AFQjCNFxxvT7zeIgkkiPHezPEOHNgQds0w&url=http://www.stltoday.com/entertainment/movies/joe-williams/holiday-movies-are-a-question-of-character/article_beb55de5-c754-5da3-a0ff-bc8a9dc19f9c.html</link>
+            <guid isPermaLink=\"false\">tag:news.google.com,2005:cluster=http://www.stltoday.com/entertainment/movies/joe-williams/holiday-movies-are-a-question-of-character/article_beb55de5-c754-5da3-a0ff-bc8a9dc19f9c.html</guid>
+            <pubDate>Sat, 27 Oct 2012 14:02:04 GMT</pubDate>
+            <description>
+                <table border="0" cellpadding="2" cellspacing="7" style="vertical-align:top;">
+                    <tr>
+                        <td width="80" align="center" valign="top">
+                            <font style="font-size:85%;font-family:arial,sans-serif">
+                            </font>
+                        </td>
+                        <td valign="top" class="j">
+                            <font style="font-size:85%;font-family:arial,sans-serif">
+                                <br />
+                                <div style="padding-top:0.8em;">
+                                    <img alt="" height="1" width="1" />
+                                </div>
+                                <div class="lh">
+                                    <a href="http://news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNFxxvT7zeIgkkiPHezPEOHNgQds0w&amp;url=http://www.stltoday.com/entertainment/movies/joe-williams/holiday-movies-are-a-question-of-character/article_beb55de5-c754-5da3-a0ff-bc8a9dc19f9c.html">
+                                        <b>Holiday movies are a question of character</b>
+                                    </a>
+                                    <br />
+                                    <font size="-1">
+                                        <b>
+                                            <font color="#6f6f6f">STLtoday.com</font>
+                                        </b>
+                                    </font>
+                                    <br />
+                                    <font size="-1">Sam Riley and Garrett Hedlund play thinly fictionalized versions of the restless Kerouac and his beatnik buddy Neal Cassady, with Viggo Mortensen channeling the spirit of St. Louisan 
+                                        <b>William S</b>. 
+                                        <b>Burroughs</b>. European literature looms large in adaptations 
+                                        <b>...</b>
+                                    </font>
+                                    <br />
+                                    <font size="-1" class="p">
+                                    </font>
+                                    <br />
+                                    <font class="p" size="-1">
+                                        <a class="p" href="http://news.google.com/news/more?ncl=dmNrRWENRmGySPM&amp;ned=us">
+                                            <nobr>
+                                                <b>
+                                                </b>
+                                            </nobr>
+                                        </a>
+                                    </font>
+                                </div>
+                            </font>
+                        </td>
+                    </tr>
+                </table>
+            </description>
+        </item>
+        <item>
+            <title>Amy Adams Glows at “On the Road” Gala Screening (Photos) - Babble (blog)</title>
+            <link>http://news.google.com/news/url?sa=t&fd=R&usg=AFQjCNE8vxY3caaXRkSjozKzceU9vT-EbQ&url=http://blogs.babble.com/famecrawler/2012/11/05/amy-adams-glows-at-on-the-road-gala-screening-photos/</link>
+            <guid isPermaLink=\"false\">tag:news.google.com,2005:cluster=http://blogs.babble.com/famecrawler/2012/11/05/amy-adams-glows-at-on-the-road-gala-screening-photos/</guid>
+            <pubDate>Mon, 05 Nov 2012 05:36:53 GMT</pubDate>
+            <description>
+                <table border="0" cellpadding="2" cellspacing="7" style="vertical-align:top;">
+                    <tr>
+                        <td width="80" align="center" valign="top">
+                            <font style="font-size:85%;font-family:arial,sans-serif">
+                                <a href="http://news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNE8vxY3caaXRkSjozKzceU9vT-EbQ&amp;url=http://blogs.babble.com/famecrawler/2012/11/05/amy-adams-glows-at-on-the-road-gala-screening-photos/">
+                                    <img src="//nt2.ggpht.com/news/tbn/hirkIFFkns2tIM/6.jpg" alt="" border="1" width="80" height="80" />
+                                    <br />
+                                    <font size="-2">Babble (blog)</font>
+                                </a>
+                            </font>
+                        </td>
+                        <td valign="top" class="j">
+                            <font style="font-size:85%;font-family:arial,sans-serif">
+                                <br />
+                                <div style="padding-top:0.8em;">
+                                    <img alt="" height="1" width="1" />
+                                </div>
+                                <div class="lh">
+                                    <a href="http://news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNE8vxY3caaXRkSjozKzceU9vT-EbQ&amp;url=http://blogs.babble.com/famecrawler/2012/11/05/amy-adams-glows-at-on-the-road-gala-screening-photos/">
+                                        <b>Amy Adams Glows at “On the Road” Gala Screening (Photos)</b>
+                                    </a>
+                                    <br />
+                                    <font size="-1">
+                                        <b>
+                                            <font color="#6f6f6f">Babble (blog)</font>
+                                        </b>
+                                    </font>
+                                    <br />
+                                    <font size="-1">In the film, an adaptation of Jack Kerouac&#39;s classic novel, Amy plays a character named Jane (which is based on author 
+                                        <b>William S</b>. 
+                                        <b>Burroughs</b>wife Joan Vollmer). Amy wore a gorgeous emerald green floral print dress by Dolcce &amp; Gabanna to the Grauman&#39;s 
+                                        <b>...</b>
+                                    </font>
+                                    <br />
+                                    <font size="-1" class="p">
+                                    </font>
+                                    <br />
+                                    <font class="p" size="-1">
+                                        <a class="p" href="http://news.google.com/news/more?ncl=dde-aMCDJrURi0M&amp;ned=us">
+                                            <nobr>
+                                                <b>and more&nbsp;&raquo;</b>
+                                            </nobr>
+                                        </a>
+                                    </font>
+                                </div>
+                            </font>
+                        </td>
+                    </tr>
+                </table>
+            </description>
+        </item>
+        <item>
+            <title>What Happened To Jack Kerouac? Collector's Edition - DVD Talk</title>
+            <link>http://news.google.com/news/url?sa=t&fd=R&usg=AFQjCNHGppVx35ze-K67-SZk5tB9FUTEzw&url=http://www.dvdtalk.com/reviews/57593/what-happened-to-jack-kerouac/</link>
+            <guid isPermaLink=\"false\">tag:news.google.com,2005:cluster=http://www.dvdtalk.com/reviews/57593/what-happened-to-jack-kerouac/</guid>
+            <pubDate>Wed, 24 Oct 2012 23:12:21 GMT</pubDate>
+            <description>
+                <table border="0" cellpadding="2" cellspacing="7" style="vertical-align:top;">
+                    <tr>
+                        <td width="80" align="center" valign="top">
+                            <font style="font-size:85%;font-family:arial,sans-serif">
+                            </font>
+                        </td>
+                        <td valign="top" class="j">
+                            <font style="font-size:85%;font-family:arial,sans-serif">
+                                <br />
+                                <div style="padding-top:0.8em;">
+                                    <img alt="" height="1" width="1" />
+                                </div>
+                                <div class="lh">
+                                    <a href="http://news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNHGppVx35ze-K67-SZk5tB9FUTEzw&amp;url=http://www.dvdtalk.com/reviews/57593/what-happened-to-jack-kerouac/">
+                                        <b>What Happened To Jack Kerouac? Collector&#39;s Edition</b>
+                                    </a>
+                                    <br />
+                                    <font size="-1">
+                                        <b>
+                                            <font color="#6f6f6f">DVD Talk</font>
+                                        </b>
+                                    </font>
+                                    <br />
+                                    <font size="-1">In addition to vintage television and audio performances by Jack Kerouac reading his own work, What Happened to Kerouac? features interviews with Beat main players like Allen Ginsberg, Gregory Corso, 
+                                        <b>William S</b>. 
+                                        <b>Burroughs</b>, Michael McClure, and John 
+                                        <b>...</b>
+                                    </font>
+                                    <br />
+                                    <font size="-1" class="p">
+                                    </font>
+                                    <br />
+                                    <font class="p" size="-1">
+                                        <a class="p" href="http://news.google.com/news/more?ncl=dOMMvNaxXVnPtUM&amp;ned=us">
+                                            <nobr>
+                                                <b>and more&nbsp;&raquo;</b>
+                                            </nobr>
+                                        </a>
+                                    </font>
+                                </div>
+                            </font>
+                        </td>
+                    </tr>
+                </table>
+            </description>
+        </item>
+        <item>
+            <title>Stifters Dinge on ECM (CD Review) - Sequenza21</title>
+            <link>http://news.google.com/news/url?sa=t&fd=R&usg=AFQjCNFaz3144B35IpqGOCuna-Y0itY_TA&url=http://www.sequenza21.com/carey/2012/10/stifters-dinge-on-ecm-cd-review/</link>
+            <guid isPermaLink=\"false\">tag:news.google.com,2005:cluster=http://www.sequenza21.com/carey/2012/10/stifters-dinge-on-ecm-cd-review/</guid>
+            <pubDate>Fri, 26 Oct 2012 11:38:40 GMT</pubDate>
+            <description>
+                <table border="0" cellpadding="2" cellspacing="7" style="vertical-align:top;">
+                    <tr>
+                        <td width="80" align="center" valign="top">
+                            <font style="font-size:85%;font-family:arial,sans-serif">
+                                <a href="http://news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNFaz3144B35IpqGOCuna-Y0itY_TA&amp;url=http://www.sequenza21.com/carey/2012/10/stifters-dinge-on-ecm-cd-review/">
+                                    <img src="//nt3.ggpht.com/news/tbn/H4hLR4ENS1GeEM/6.jpg" alt="" border="1" width="80" height="80" />
+                                    <br />
+                                    <font size="-2">Sequenza21</font>
+                                </a>
+                            </font>
+                        </td>
+                        <td valign="top" class="j">
+                            <font style="font-size:85%;font-family:arial,sans-serif">
+                                <br />
+                                <div style="padding-top:0.8em;">
+                                    <img alt="" height="1" width="1" />
+                                </div>
+                                <div class="lh">
+                                    <a href="http://news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNFaz3144B35IpqGOCuna-Y0itY_TA&amp;url=http://www.sequenza21.com/carey/2012/10/stifters-dinge-on-ecm-cd-review/">
+                                        <b>Stifters Dinge on ECM (CD Review)</b>
+                                    </a>
+                                    <br />
+                                    <font size="-1">
+                                        <b>
+                                            <font color="#6f6f6f">Sequenza21</font>
+                                        </b>
+                                    </font>
+                                    <br />
+                                    <font size="-1">Spoken word excerpts by famous figures — Claude Levi-Strauss, 
+                                        <b>William S</b>. 
+                                        <b>Burroughs</b>, and Malcom X — along with Bill Patterson&#39;s mellifluous reading of a text by the work&#39;s titular figure, Romantic era writer Adelbert Stifter, are joined by field 
+                                        <b>...</b>
+                                    </font>
+                                    <br />
+                                    <font size="-1" class="p">
+                                    </font>
+                                    <br />
+                                    <font class="p" size="-1">
+                                        <a class="p" href="http://news.google.com/news/more?ncl=d1acnMJo_5FaMfM&amp;ned=us">
+                                            <nobr>
+                                                <b>
+                                                </b>
+                                            </nobr>
+                                        </a>
+                                    </font>
+                                </div>
+                            </font>
+                        </td>
+                    </tr>
+                </table>
+            </description>
+        </item>
+        <item>
+            <title>Funds sought for photography book chronicling River City Reunion - Lawrence Journal World</title>
+            <link>http://news.google.com/news/url?sa=t&fd=R&usg=AFQjCNEFCN7tQgedxyfyMW9kfF0l4mrwpQ&url=http://www2.ljworld.com/news/2012/oct/07/funds-sought-photography-book-chronicling-river-ci/</link>
+            <guid isPermaLink=\"false\">tag:news.google.com,2005:cluster=http://www2.ljworld.com/news/2012/oct/07/funds-sought-photography-book-chronicling-river-ci/</guid>
+            <pubDate>Mon, 08 Oct 2012 18:11:36 GMT</pubDate>
+            <description>
+                <table border="0" cellpadding="2" cellspacing="7" style="vertical-align:top;">
+                    <tr>
+                        <td width="80" align="center" valign="top">
+                            <font style="font-size:85%;font-family:arial,sans-serif">
+                            </font>
+                        </td>
+                        <td valign="top" class="j">
+                            <font style="font-size:85%;font-family:arial,sans-serif">
+                                <br />
+                                <div style="padding-top:0.8em;">
+                                    <img alt="" height="1" width="1" />
+                                </div>
+                                <div class="lh">
+                                    <a href="http://news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNEFCN7tQgedxyfyMW9kfF0l4mrwpQ&amp;url=http://www2.ljworld.com/news/2012/oct/07/funds-sought-photography-book-chronicling-river-ci/">
+                                        <b>Funds sought for photography book chronicling River City Reunion</b>
+                                    </a>
+                                    <br />
+                                    <font size="-1">
+                                        <b>
+                                            <font color="#6f6f6f">Lawrence Journal World</font>
+                                        </b>
+                                    </font>
+                                    <br />
+                                    <font size="-1">Images such as 
+                                        <b>William S</b>. 
+                                        <b>Burroughs</b>shooting a gun from his collection, Keith Haring drawing on the sidewalk on Seventh Street and Allen Ginsberg reading from “Howl” are slated for inclusion and currently online at rivercityreunion.com. The project 
+                                        <b>...</b>
+                                    </font>
+                                    <br />
+                                    <font size="-1" class="p">
+                                    </font>
+                                    <br />
+                                    <font class="p" size="-1">
+                                        <a class="p" href="http://news.google.com/news/more?ncl=dSgXZirLsEbIwUM&amp;ned=us">
+                                            <nobr>
+                                                <b>
+                                                </b>
+                                            </nobr>
+                                        </a>
+                                    </font>
+                                </div>
+                            </font>
+                        </td>
+                    </tr>
+                </table>
+            </description>
+        </item>
+        <item>
+            <title>The 100 Best Films of the 1990s - slantmagazine</title>
+            <link>http://news.google.com/news/url?sa=t&fd=R&usg=AFQjCNGi4HWXfnMMN-3cl8bQoEH0Lk6-dA&url=http://www.slantmagazine.com/film/feature/the-100-best-films-of-the-1990s/334</link>
+            <guid isPermaLink=\"false\">tag:news.google.com,2005:cluster=http://www.slantmagazine.com/film/feature/the-100-best-films-of-the-1990s/334</guid>
+            <pubDate>Mon, 05 Nov 2012 14:03:28 GMT</pubDate>
+            <description>
+                <table border="0" cellpadding="2" cellspacing="7" style="vertical-align:top;">
+                    <tr>
+                        <td width="80" align="center" valign="top">
+                            <font style="font-size:85%;font-family:arial,sans-serif">
+                                <a href="http://news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNGi4HWXfnMMN-3cl8bQoEH0Lk6-dA&amp;url=http://www.slantmagazine.com/film/feature/the-100-best-films-of-the-1990s/334">
+                                    <img src="//nt1.ggpht.com/news/tbn/zVpAq4NU2d3X-M/6.jpg" alt="" border="1" width="80" height="80" />
+                                    <br />
+                                    <font size="-2">slantmagazine</font>
+                                </a>
+                            </font>
+                        </td>
+                        <td valign="top" class="j">
+                            <font style="font-size:85%;font-family:arial,sans-serif">
+                                <br />
+                                <div style="padding-top:0.8em;">
+                                    <img alt="" height="1" width="1" />
+                                </div>
+                                <div class="lh">
+                                    <a href="http://news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNGi4HWXfnMMN-3cl8bQoEH0Lk6-dA&amp;url=http://www.slantmagazine.com/film/feature/the-100-best-films-of-the-1990s/334">
+                                        <b>The 100 Best Films of the 1990s</b>
+                                    </a>
+                                    <br />
+                                    <font size="-1">
+                                        <b>
+                                            <font color="#6f6f6f">slantmagazine</font>
+                                        </b>
+                                    </font>
+                                    <br />
+                                    <font size="-1">Anyone who classified 
+                                        <b>William S</b>. 
+                                        <b>Burroughs&#39;s</b>Naked Lunch as &quot;unfilmable&quot; clearly didn&#39;t have David Cronenberg in mind when they read it, because the raw material of that gonzo epic couldn&#39;t be more up his alley: bug powder, talking typewriters 
+                                        <b>...</b>
+                                    </font>
+                                    <br />
+                                    <font size="-1" class="p">
+                                    </font>
+                                    <br />
+                                    <font class="p" size="-1">
+                                        <a class="p" href="http://news.google.com/news/more?ncl=dPLABaPFSWE2URM&amp;ned=us">
+                                            <nobr>
+                                                <b>
+                                                </b>
+                                            </nobr>
+                                        </a>
+                                    </font>
+                                </div>
+                            </font>
+                        </td>
+                    </tr>
+                </table>
+            </description>
+        </item>
+        <item>
+            <title>Music mash-ups - Los Angeles Times (blog)</title>
+            <link>http://news.google.com/news/url?sa=t&fd=R&usg=AFQjCNF8qjACx4fSIwXBh8MN2LBEInfzcQ&url=http://graphics.latimes.com/towergraphic-super-cuts/</link>
+            <guid isPermaLink=\"false\">tag:news.google.com,2005:cluster=http://graphics.latimes.com/towergraphic-super-cuts/</guid>
+            <pubDate>Fri, 26 Oct 2012 00:39:17 GMT</pubDate>
+            <description>
+                <table border="0" cellpadding="2" cellspacing="7" style="vertical-align:top;">
+                    <tr>
+                        <td width="80" align="center" valign="top">
+                            <font style="font-size:85%;font-family:arial,sans-serif">
+                            </font>
+                        </td>
+                        <td valign="top" class="j">
+                            <font style="font-size:85%;font-family:arial,sans-serif">
+                                <br />
+                                <div style="padding-top:0.8em;">
+                                    <img alt="" height="1" width="1" />
+                                </div>
+                                <div class="lh">
+                                    <a href="http://news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNF8qjACx4fSIwXBh8MN2LBEInfzcQ&amp;url=http://graphics.latimes.com/towergraphic-super-cuts/">
+                                        <b>Music mash-ups</b>
+                                    </a>
+                                    <br />
+                                    <font size="-1">
+                                        <b>
+                                            <font color="#6f6f6f">Los Angeles Times (blog)</font>
+                                        </b>
+                                    </font>
+                                    <br />
+                                    <font size="-1">
+                                        <b>William S</b>. 
+                                        <b>Burroughs</b>, “Origin and Theory of the Tape Cut-Ups”. In this clip, writer 
+                                        <b>William S</b>. 
+                                        <b>Burroughs</b>discusses the theories of his peer Brion Gysin and their work on sound collages. James Tenney, “Collage #1 (Blue Suede)”. One of the most important 
+                                        <b>...</b>
+                                    </font>
+                                    <br />
+                                    <font size="-1" class="p">
+                                    </font>
+                                    <br />
+                                    <font class="p" size="-1">
+                                        <a class="p" href="http://news.google.com/news/more?ncl=dMr8LGW5FIeF2gM&amp;ned=us">
+                                            <nobr>
+                                                <b>
+                                                </b>
+                                            </nobr>
+                                        </a>
+                                    </font>
+                                </div>
+                            </font>
+                        </td>
+                    </tr>
+                </table>
+            </description>
+        </item>
+        <description>Google News</description>
+    </channel>
+</rss>
